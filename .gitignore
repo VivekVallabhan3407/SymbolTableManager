@@ -1,0 +1,10 @@
+# Ignore image assets
+assets/
+
+# Ignore temporary files
+*.zip
+*.log
+*.tmp
+
+# Ignore VSCode settings (optional)
+.vscode/
